@@ -1,0 +1,29 @@
+h1{
+	text-align: center;
+	background-color: yellow;
+}
+
+#izq{
+	width: 200px;
+	height: 600px;
+}
+
+article{
+	position: absolute;
+	left: 201px;
+	top: 100px;
+	border-left: 1px solid;
+	border-color: green;
+}
+
+#der{
+	position: absolute;
+	right: 2px;
+	top: 100px;
+	text-align: right;
+	border: 1px dotted green;
+}
+
+#der ul{
+	list-style-type: none;
+}
